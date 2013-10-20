@@ -34,3 +34,11 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# specific stuff for Robcxjo
+*~
+config.cfg
+log.log
+enabled_commands.txt
+nickmask_disables.txt
+channels.txt
